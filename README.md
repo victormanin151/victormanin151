@@ -58,8 +58,5 @@ Here are a few highlights of what I've built:
 
 ⭐ **"Always learning, always building."**
 
-<div align="center">
-        <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/victormanin151"/> 
-</div>
+![Profile views](https://hits.seeyoufarm.com/api/count/incr?url=https://github.com/victormanin151&label=Profile%20views&color=0e75b6)
 
