@@ -58,5 +58,6 @@ Here are a few highlights of what I've built:
 
 ⭐ **"Always learning, always building."**
 
-![Profile views](https://hits.seeyoufarm.com/api/count/incr?url=https://github.com/victormanin151&label=Profile%20views&color=0e75b6)
+![Profile visits](https://visitor-badge.glitch.me/badge?page_id=victormanin151.victormanin151)
+
 
