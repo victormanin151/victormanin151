@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Victor 
+# 👋 Hi, I'm Victor ![Profile Views](https://komarev.com/ghpvc/?username=victormanin151&color=0e75b6&style=flat)
 
 I'm an aspiring **Software Developer** with a strong foundation in **Java** and **JavaScript**, and a growing passion for building meaningful, scalable applications.
 
@@ -58,7 +58,7 @@ Here are a few highlights of what I've built:
 
 ⭐ **"Always learning, always building."**
 
-![Profile Views](https://komarev.com/ghpvc/?username=victormanin151&color=0e75b6&style=flat)
+
 
 
 
