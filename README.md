@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Victor
 
 I'm an aspiring **Software Developer** with a strong foundation in **Java** and **JavaScript**, and a growing passion for building meaningful, scalable applications.
