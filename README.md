@@ -1,8 +1,4 @@
 # 👋 Hi, I'm Victor 
-<div align="center">
-        <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<victormanin151>"/> 
-</div>
 
 I'm an aspiring **Software Developer** with a strong foundation in **Java** and **JavaScript**, and a growing passion for building meaningful, scalable applications.
 
@@ -61,4 +57,9 @@ Here are a few highlights of what I've built:
 ---
 
 ⭐ **"Always learning, always building."**
+
+<div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/victormanin151"/> 
+</div>
 
