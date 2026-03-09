@@ -4,49 +4,82 @@ I'm an aspiring **Software Developer** with a strong foundation in **Java** and 
 
 ---
 
-## 💻 About Me
+# 💻 About Me
 
-- 🎓 Currently finishing **Sirma Academy** (Java track)  
-  - Completed **Fundamentals**, **OOP**, and **SQL**  
-  - Currently working with **Spring MVC**, **REST**, and **Spring Security**  
-- 🎓 Graduate of **Telerik Academy** (JavaScript track)  
-  - Built several projects with **Vanilla JS** and **React**
-- 🎓 Hold a **Business Degree** with **Computer Science** background  
-- 🧮 Strong in **Mathematics** and problem solving  
+- 🎓 Currently finishing **Sirma Academy – Java Track**
+  - Studied **Java Fundamentals, OOP, SQL**
+  - Currently working with **Spring Boot, Spring MVC, REST APIs**
+  
+- 🎓 Graduate of **Telerik Academy – JavaScript Track**
+  - Built projects using **Vanilla JavaScript and React**
+
+- 🎓 Hold a **Business Degree** with a **Computer Science background**
+
+- 🧠 Strong interest in **backend development, APIs, and data processing**
 
 ---
 
-## 🧠 Tech Stack
+# 🧠 Tech Stack
 
-**Languages:**  
+### Languages
 `Java` · `JavaScript` · `SQL`
 
-**Frameworks & Tools:**  
-`Spring Boot` · `Spring MVC` · `REST API` · `Spring Security` · `React` · `HTML` · `CSS` · `Tailwind`  
+### Backend
+`Spring Boot` · `Spring MVC` · `REST API` · `Spring Security`
 
-**Databases:**  
-`MySQL` · `Firebase`
+### Frontend
+`React` · `HTML` · `CSS` · `Tailwind`
 
-**Other:**  
-`Git` · `Linux` · `VS Code` · `IntelliJ`
+### Databases
+`PostgreSQL` · `MySQL` · `Firebase`
+
+### Tools
+`Git` · `Linux` · `IntelliJ` · `VS Code`
+
+---
+# 🚀 Projects
+
+
+## ⚽ Football Matches Analytics API
+Spring Boot API for managing football **teams, players, matches, and player statistics**.
+
+**Features**
+
+- CSV **data ingestion pipeline**
+- PostgreSQL persistence
+- Match **score and date parsing**
+- Player **pair analytics** calculating shared playtime
+- Filtering and sorting of statistics
+
+**Tech:** Spring Boot · PostgreSQL · REST · CSV parsing
+
+🔗 https://github.com/victormanin151/Final-Exam
 
 ---
 
-## 🚀 Projects
+## 🎅 Santa Workshop API
+Spring Boot REST API for managing gifts and deliveries in a workshop system.
 
-Here are a few highlights of what I've built:
-- **Vanilla JS Projects:** Dynamic web applications demonstrating DOM manipulation and API integration  
-- **React Projects:** Component-based UIs with real-time data and clean design  
-- **Java Projects:** Console-based systems showcasing OOP, file persistence, and database integration  
+**Features**
+
+- Full **CRUD API**
+- **Pagination, filtering, and search**
+- Business **status workflows**
+- **Centralized JSON error handling**
+- Statistics endpoints using **DTO aggregation**
+
+**Tech:** Spring Boot · Spring Data JPA · H2 · REST
+
+🔗 https://github.com/victormanin151/Santa-s-Workshop-API-app
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
-- Spring Boot advanced topics  
-- RESTful API best practices  
-- Backend security and authentication  
-- Full-stack project architecture  
+- Advanced **Spring Boot**
+- **REST API design best practices**
+- Backend **architecture and scalability**
+- Building **full-stack applications**
 
 ---
 
