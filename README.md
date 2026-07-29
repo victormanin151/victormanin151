@@ -6,7 +6,14 @@ I'm an aspiring **Software Developer** with a strong foundation in **Java** and 
 
 # 💻 About Me
 
-- 🎓 Currently finishing **Sirma Academy – Java Track**
+- 💼 Currently Intern at **Sirma Holding**
+
+  - Gaining hands-on experience in a professional software development environment
+  - Contributing to real-world projects using **Spring Boot, Node.js, and React**
+  - Working with **Agile methodologies and Jira** for project planning and collaboration
+  - Collaborating with experienced engineers while continuously improving my full-stack development skills 
+
+- 🎓 Graduate of **Sirma Academy – Java Track**
   - Studied **Java Fundamentals, OOP, SQL**
   - Currently working with **Spring Boot, Spring MVC, REST APIs**
   
@@ -25,7 +32,7 @@ I'm an aspiring **Software Developer** with a strong foundation in **Java** and 
 `Java` · `JavaScript` · `SQL`
 
 ### Backend
-`Spring Boot` · `Spring MVC` · `REST API` · `Spring Security`
+`Spring Boot` · `Spring MVC` · `REST API` · `Spring Security` . `Node.js`
 
 ### Frontend
 `React` · `HTML` · `CSS` · `Tailwind`
